@@ -1,2 +1,0 @@
-===== ping-tmpl
-<button id="ping">Ping Kinvey</button>
